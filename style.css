@@ -1,0 +1,22 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+  }
+  
+  header, section, footer {
+    padding: 2rem 1rem;
+  }
+  
+  h1, h2, h3 {
+    margin-bottom: 1rem;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+  .navbar .nav-link {
+    color: red;
+  }
